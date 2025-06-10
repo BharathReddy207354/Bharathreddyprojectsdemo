@@ -1,0 +1,11 @@
+<!doctype html>
+<title>this is the workflow of the Gt</title>
+<h1>this is explained for the work flow</h1>
+<body>
+<p1>create the file that leads to the different stages</p1>
+<p2>the 1st stage is work area </p2>
+<p3>the 2nd stage is staging area</p3>
+<p4>the 3rd stage is the remote area</p4>
+<p5>the 4th stage is the remote GitHub area</p5>
+</body>
+</html>
