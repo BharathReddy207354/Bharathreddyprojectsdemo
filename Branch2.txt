@@ -1,0 +1,23 @@
+<Doctype!=html>
+<title>Git flow for the Branches to commit</title>
+<h1>Make Changes and Add Commits
+After the new branch is created, it is time to get to work</h1>
+<body>
+<p1>Make changes by adding, editing and deleting files.
+
+Whenever you reach a small milestone, add the changes to your branch by commit.
+
+Adding commits keeps track of your work.
+
+Each commit should have a message explaining what has changed and why after the changes I cannot make any commit I dont know why .
+
+Each commit becomes a part of the history of the branch, and a point you can revert back to if you need to</p1>
+<p2>When a Pull Request is made, it can be reviewed by whoever has the proper access to the branch.
+
+This is where good discussions and review of the changes happen.
+
+Pull Requests are designed to allow people to work together easily and produce better results together!
+
+If you receive feedback and continue to improve your changes, you can push your changes with new commits, making further reviews possible</p2>
+</body>
+</html>
